@@ -20,6 +20,6 @@ deploy:
   local_dir: builded
   target_branch: master
   fqdn: lugs.ir
-  repo: herotux/lugs.ir
+  repo: herotux/lugs-ir
   on:
 branch: master
