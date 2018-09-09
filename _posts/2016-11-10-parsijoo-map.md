@@ -6,8 +6,8 @@ tags: [osm, نقشه آزاد ,پارسی جو]
 Category:  کامپیوتر 
 ---
 
-![نقشه پارسی جو](http://pblog.parsijoo.ir/cache/pj/images/mapparsijoo_bc6096caf670a1dc59c3c1a30acc71eb.jpg)
 
+<p align="center"><img src="/images/post/parsijoo.jpg" alt="نقشه پارسی جو"  /></p>
 
 
  این روزا مد شده یه پروژه اوپن سورس و آزاد رو تغییر میدن و لوگو و ظاهرش رو تغییر میدن و اسم بومی روش میزارن.
