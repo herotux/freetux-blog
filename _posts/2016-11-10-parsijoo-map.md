@@ -1,10 +1,9 @@
 ---
 layout: post
 Slug: parsijoo
-Date: 2016-11-10 23:20
 title: نقشه بومی یا کپی از پروژه های آزاد؟
-tags: osm نقشه آزاد پارسی جو
-Category: نقشه کامپیوتر 
+tags: [osm, نقشه آزاد ,پارسی جو]
+Category:  کامپیوتر 
 ---
 
 ![نقشه پارسی جو](http://pblog.parsijoo.ir/cache/pj/images/mapparsijoo_bc6096caf670a1dc59c3c1a30acc71eb.jpg)

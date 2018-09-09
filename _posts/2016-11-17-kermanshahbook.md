@@ -1,9 +1,8 @@
 ---
 layout: post
 Slug: kermanshahbook
-Date: 2016-11-17 23:20
 title: نمایشگاه کتاب کرمانشاه
-tags: kermanshah, book
+tags: [kermanshah, book]
 category: book
 ---
 

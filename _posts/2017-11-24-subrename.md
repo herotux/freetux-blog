@@ -1,10 +1,9 @@
 ---
 layout: post
 Slug: subrename
-Date: 2017-11-24 23:20
 title: تغییر نام فایل ویدئویی و زیرنویس با بسته tvsubs_rename
-tags: linux, python
-category: linux, python
+tags: [linux, python]
+category: [linux, python]
 ---
 
 
