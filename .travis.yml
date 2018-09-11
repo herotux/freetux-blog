@@ -19,7 +19,7 @@ deploy:
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   local_dir: builded
   target_branch: master
-  fqdn: lugs.ir
+  fqdn: freetux.ir
   repo: herotux/freetux-ir
   on:
 branch: master
