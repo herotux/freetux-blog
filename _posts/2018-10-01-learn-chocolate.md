@@ -1,8 +1,7 @@
 ---
 layout: post
 title: آموزش با طعم شکلات
-date: 2018-10-01 15:44:47
-categories: Learn
+category: Learn
 ---
 
 از این پس با هشتگ #شکلات یک سری نکات و آموزش های کوتاه میزارم 
