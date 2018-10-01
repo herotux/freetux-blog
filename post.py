@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#!/usr/bin/env python3
 
 import sys
 import datetime
@@ -11,7 +11,7 @@ else:
 	title = "New Post"
 
 # use the rest of the arguments for categories
-categories = " ".join(sys.argv[2:])
+category = ", ".join(sys.argv[2:])
 
 # standard filename format: date and title
 filename = datetime.datetime.now().strftime('%Y-%m-%d-') + title.lower().replace(" ","-") + '.md'
@@ -21,10 +21,9 @@ front_matter = '''\
 ---
 layout: post
 title: %s
-date: %s
-categories: %s
+category: [%s]
 ---
-''' % (title, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), categories)
+''' % (title, category)
 
 # if we're in a jekyll root, pop it in ./_posts
 if(os.path.exists(os.getcwd() + '/_posts')):
