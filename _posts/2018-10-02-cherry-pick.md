@@ -9,7 +9,6 @@ tags:
 - learn
 ---
 
-# توضیح cherry-pick یک commit با git
 
 cherry-pick در git به معنای انتخاب یک commit از یک branch و اعمال آن بر سایر branch ها است
 
