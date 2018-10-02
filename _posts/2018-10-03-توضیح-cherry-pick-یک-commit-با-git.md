@@ -2,11 +2,11 @@
 layout: post
 title:  توضیح cherry-pick یک commit با git
 category: 
- - chocolate
- - learn
+- chocolate
+- learn
 tag: : 
- - chocolate 
- - learn
+- chocolate 
+- learn
 ---
 
 # توضیح cherry-pick یک commit با git
