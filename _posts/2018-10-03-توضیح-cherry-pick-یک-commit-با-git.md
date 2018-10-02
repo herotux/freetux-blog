@@ -4,7 +4,7 @@ title:  توضیح cherry-pick یک commit با git
 category: 
 - chocolate
 - learn
-tag: 
+tags: 
 - chocolate 
 - learn
 ---
