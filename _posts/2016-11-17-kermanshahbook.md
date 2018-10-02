@@ -2,7 +2,9 @@
 layout: post
 Slug: kermanshahbook
 title: نمایشگاه کتاب کرمانشاه
-tags: [kermanshah, book]
+tags: 
+- kermanshah
+- book
 category: book
 ---
 

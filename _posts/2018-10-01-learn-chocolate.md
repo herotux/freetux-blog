@@ -1,8 +1,11 @@
 ---
 layout: post
 title: آموزش با طعم شکلات
-category: [Learn, chocolate]
+category: 
+- Learn
+- chocolate]
 tags: chocolate
+postimg: /images/post/chocates.jpg
 ---
 
 از این پس با هشتگ #شکلات یک سری نکات و آموزش های کوتاه میزارم 
