@@ -4,7 +4,10 @@ title: Rebasing گیت
 category: 
 - Learn
 - chocolate
-tags: chocolate
+tags: 
+- chocolate
+- learn
+- link
 ---
 
 در Git، دو راه اصلی برای ادغام تغییرات از یک شاخه به دیگری وجود دارد: merge و rebase.
