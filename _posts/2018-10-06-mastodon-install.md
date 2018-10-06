@@ -346,4 +346,4 @@ systemctl restart nginx
 
 ```
 
-در نهایت، مرورگر وب خود را باز کنید و URL http // yourdomain.com خود را تایپ کنید تا به Mastodon install دسترسی داشته باشید. 
+در نهایت، مرورگر وب خود را باز کنید و  http // yourdomain.com خود را تایپ کنید تا به Mastodon install دسترسی داشته باشید. 
