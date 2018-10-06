@@ -8,7 +8,7 @@ permalink: /about/
 <div class="card">
 				<img class="card-img-top" src="/images/hamid.jpg" alt="Card image cap">
 				<div class="card-body">
-					<h5 class="card-title">about me!</h5>
+					
 					<p class="card-text"><strong>
 حمید صیدی هستم شهریور ۱۳۶۹ در کرمانشاه به دنیا امدم .
 
