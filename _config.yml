@@ -6,7 +6,7 @@
 name: حمید صیدی 
 description: وبلاگ شخصی جایی برای نوشتن!
 descriptionmeta: علاقه مند به نرم افزار آزاد، موسیقی، تکنولوژی، گنو/لینوکس
-avatar: https://en.gravatar.com/userimage/17365693/ef5e3062e13cf1a4f1bd3c97f3133dda.png?size=200
+avatar: /images/freetux.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: gshs99@gmail.com
@@ -14,7 +14,7 @@ footer-links:
   instagram: freetux
   linkedin: freetux
   twitter: freetux
-
+  mastodon: persadon.com/@Freetux
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: freetux-1
