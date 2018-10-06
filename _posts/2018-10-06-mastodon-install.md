@@ -10,6 +10,9 @@ tags:
 ---
 
 
+<div align='center' style='font-size: 50px;'>
+<i class="fab fa-mastodon" aria-hidden="true" style='color: #333;'></i>
+</div>
 
 Mastodon یک پلت فرم شبکه اجتماعی رایگان و رایگان است که بسیار شبیه توییتر است. هر کسی می تواند Mastodon را اجرا کند و در یک شبکه اجتماعی یکپارچه شرکت کند. این در روبی و جاوا اسکریپت نوشته شده است.
 
