@@ -24,20 +24,26 @@ Mastodon یک پلت فرم شبکه اجتماعی رایگان و رایگان
 
 اولا توصیه می شود سرور خود را با آخرین نسخه به روز کنید. شما می توانید این کار را با اجرای دستور زیر انجام دهید:
 
+```
 sudo apt-get update -y sudo apt-get upgrade -y
+```
 
 هنگامی که سیستم شما به روز می شود، سیستم خود را مجددا راه اندازی کنید و با کاربر sudo وارد شوید.
 
 بعد، شما باید برخی از وابستگی های مورد نیاز را در سرور خود نصب کنید. شما می توانید همه آنها را با اجرای دستور زیر نصب کنید:
 
 
-`sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo bash - sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo bash - sudo apt-get install imagemagick ffmpeg libpq-dev libxml2-dev libxslt1-dev nodejs -y sudo npm install -g yarn`
+```
+sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo bash - sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo bash - sudo apt-get install imagemagick ffmpeg libpq-dev libxml2-dev libxslt1-dev nodejs -y sudo npm install -g yarn
 
+```
 
 بعد، شما همچنین باید سرور redis را در سیستم خود نصب کنید. شما می توانید آن را فقط با اجرای دستور زیر نصب کنید:
 
 
-`sudo apt-get install redis-server redis-tools -y`
+```
+sudo apt-get install redis-server redis-tools -y
+```
 
 بعد Postgresql را نصب کنید.
 
@@ -46,26 +52,35 @@ sudo apt-get update -y sudo apt-get upgrade -y
 Mastodon از پایگاه داده PostgreSQL استفاده می کند، بنابراین شما باید PostgreSQL و daemon را نصب کنید. شما می توانید آنها را با دستور زیر نصب کنید:
 
 
-`sudo apt-get install postgresql pidentd -y`
+```
+sudo apt-get install postgresql pidentd -y
+```
 
 
 پس از اتمام نصب، daemon id را با دستور زیر شروع کنید:
 
 
-`sudo systemctl start pidentd`
+```
+sudo systemctl start pidentd
+```
 
 بعد، برای ورود به کاربر postgre وارد شوید و یک کاربر برای Mastodon ایجاد کنید:
 
-`sudo su - postgres psql CREATE USER mastodon CREATEDB; exit`
+```
+sudo su - postgres psql CREATE USER mastodon CREATEDB; exit
+```
 
 بعد، شما نیاز دارید که کاربران بتوانند بدون رمز عبور وارد شوند. شما می توانید این کار را با اجرای دستور زیر انجام دهید:
 
-`sudo sed -i '/^local.*postgres.*peer$/a host all all 127.0.0.1/32 ident' /etc/postgresql/9.?/main/pg_hba.conf`
+```
+sudo sed -i '/^local.*postgres.*peer$/a host all all 127.0.0.1/32 ident' /etc/postgresql/9.?/main/pg_hba.conf
+```
 
 پس از پایان کار، PostgreSQL را مجددا راه اندازی کنید تا تغییرات اعمال شود.
 
-
-`sudo systemctl postgresql restart`
+```
+sudo systemctl postgresql restart
+```
 
 ## نصب روبی
 
@@ -73,33 +88,43 @@ Mastodon برنامه مبتنی بر Ruby است. بنابراین شما با�
 
 شما می توانید همه آنها را با اجرای دستور زیر نصب کنید:
 
-
-`sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libncurses5-dev libffi-dev libgdbm3 libreadline6-dev zlib1g-dev libgdbm-dev -y`
+```
+sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libncurses5-dev libffi-dev libgdbm3 libreadline6-dev zlib1g-dev libgdbm-dev -y
+```
 
 پس از نصب تمام بسته ها، یک کاربر به نام mastodon بدون رمز عبور ایجاد کنید:
 
 
-`sudo adduser --disabled-password --disabled-login mastodon`
+```
+sudo adduser --disabled-password --disabled-login mastodon
+```
 
 بعد، با mastodon وارد شوید و rbenv و rbenv-build را با دستور زیر نصب کنید:
 
-
-`su - mastodon git clone https://github.com/rbenv/rbenv.git ~/.rbenv echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc echo 'eval "$(rbenv init -)"' >> ~/.bashrc source ~/.bashrc`
+```
+su - mastodon git clone https://github.com/rbenv/rbenv.git ~/.rbenv echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc echo 'eval "$(rbenv init -)"' >> ~/.bashrc source ~/.bashrc
+```
 
 
 بعد از کاربر mastodon خارج شده و دوباره وارد شوید تا تغییرات bash اعمال شود:
 
 
-`exit su - mastodon git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build`
+```
+exit su - mastodon git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+```
+
 
 بعد، برای نصب ruby 2.4.1 برای mastodon دستور زیر را وارد کنید:
 
-`rbenv install 2.4.1 rbenv global 2.4.1`
+```
+rbenv install 2.4.1 rbenv global 2.4.1
+```
 
 هنگامی که نصب کامل است، می توانید نسخه ruby ​​را با دستور زیر بررسی کنید:
 
-
-`ruby -v`
+```
+ruby -v
+```
 
 
 ## نصب Mastodon
@@ -107,24 +132,29 @@ Mastodon برنامه مبتنی بر Ruby است. بنابراین شما با�
 اکنون، تمام وابستگی های لازم برای راه اندازی Mastodon نصب شده اند. بنابراین آخرین نسخه Mastodon را از مخزن Git دانلود کنید. برای انجام این کار، دستور زیر را اجرا کنید:
 
 
-`git clone https://github.com/tootsuite/mastodon.git live cd live git checkout $(git tag | tail -n 1)`
-
+```
+git clone https://github.com/tootsuite/mastodon.git live cd live git checkout $(git tag | tail -n 1)
+```
 
 بعد نصب bundler برای مدیریت وابستگی ها و غیرفعال کردن داکیومنت های gem دستور زیر را وارد کنید:
 
-
-`echo "gem: --no-document" > ~/.gemrc gem install bundler --no-ri`
+```
+echo "gem: --no-document" > ~/.gemrc gem install bundler --no-ri
+```
 
 
 بعد، Mastodon را با دستور زیر نصب کنید:
 
-
-`bundle install --deployment --without development test`
+```
+bundle install --deployment --without development test
+```
 
 پس از تکمیل نصب، یک فایل پیکربندی برای Mastodon ایجاد کنید:
 
+```
+cp .env.production.sample .env.production nano .env.production
+```
 
-`cp .env.production.sample .env.production nano .env.production`
 
 مطالب زیر را اضافه کنید:
 
@@ -150,8 +180,9 @@ LOCAL_HTTPS=true
 بعد، شما باید یک وب سرویس Mastodon systemd، خدمات پس زمینه و سرویس سرویس API برای Mastodon ایجاد کنید.
 
 اول، یک فایل وب سرویس با دستور زیر ایجاد کنید:
-
-`nano /etc/systemd/system/mastodon-web.service`
+```
+nano /etc/systemd/system/mastodon-web.service
+```
 
 خطوط زیر را اضافه کنید:
 
@@ -194,7 +225,9 @@ LOCAL_HTTPS=true
 
 بعد، یک فایل سرویس API ایجاد کنید:
 
-`nano /etc/systemd/system/mastodon-streaming.service`
+```
+nano /etc/systemd/system/mastodon-streaming.service
+```
 
 خطوط زیر را اضافه کنید:
 
@@ -233,12 +266,16 @@ LOCAL_HTTPS=true
 اول، Nginx را با دستور زیر نصب کنید:
 
 
-`sudo apt-get install nginx -y`
+```
+sudo apt-get install nginx -y
+```
 
 بعد، بلوک سرور مجازی Nginx را برای Mastodon ایجاد کنید.
 
 
-`sudo nano /etc/nginx/sites-enabled/mastodon.conf`
+```
+sudo nano /etc/nginx/sites-enabled/mastodon.conf
+```
 
 خطوط زیر را اضافه کنید:
 
@@ -300,6 +337,9 @@ error_page 500 501 502 503 504 /500.html; }
 
 فایل را ذخیره کنید، سپس Nginx را با دستور زیر دوباره راه اندازی کنید:
 
-`systemctl restart nginx`
+```
+systemctl restart nginx
+
+```
 
 در نهایت، مرورگر وب خود را باز کنید و URL http // yourdomain.com خود را تایپ کنید تا به Mastodon install دسترسی داشته باشید. 
