@@ -3,11 +3,48 @@ layout: page
 title: درباره‌ی من
 permalink: /about/
 ---
+
+
+<div class="card">
+				<img class="card-img-top" src="/images/hamid.jpg" alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">about me!</h5>
+					<p class="card-text"><strong>
 حمید صیدی هستم شهریور ۱۳۶۹ در کرمانشاه به دنیا امدم .
 
 فارق التحصیل کارشناسی حسابداری از دانشگاه آزاد کرمانشاه
 
-علاقه‌مند به گنو/لینوکس، عاشق یادگیری ،دوستدار موسیقی
+علاقه‌مند به گنو/لینوکس، عاشق یادگیری ،دوستدار موسیقی</strong></p>
+					<a href="https://github.com/herotux" class="btn btn-warning">follow me in github!</a>
+				</div>
+			</div>
+
+<div class="text-center">
+		<div class="p-3 mb-2 bg-primary text-white">projects</div>
+	</div>
+
+  <div class="card-deck">
+    <div class="card">
+      <img class="card-img-top" src="/images/tanbama.png" alt="Card image cap">
+      <div class="card-body" height="400">
+        <h5 class="card-title">تنباما</h5>
+        <p class="card-text"><strong>سیستم مراقبت سلامت با پایتون و جنگو</strong></p>
+        <br>
+        <a href="https://gitlab.com/freetux/tanbama/" class="btn btn-warning">source in gillab!</a>
+      </div>
+    </div>
+    <div class="card">
+      <img class="card-img-top" src="/images/busmap.png" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">باس مپ</h5>
+        <p class="card-text"><strong>ایستگاه‌ها و مسیرهای اتوبوس شهرستان کرمانشاه </strong></p>
+        <a href="https://gitlab.com/freetux/busmap/" class="btn btn-warning">source in gillab!</a>
+      </div>
+    </div>
+  </div>
+
+
+
 
 <div class="align-center">
   <h2>
