@@ -252,12 +252,16 @@ nano /etc/systemd/system/mastodon-streaming.service
 فایل را ذخیره و بسته کنید، سپس این فایل سرویس را با دستور زیر فعال کنید:
 
 
-`sudo systemctl enable /etc/systemd/system/mastodon-*.service sudo systemctl enable /etc/systemd/system//etc/systemd/system//etc/systemd/system/mastodon-web.service sudo systemctl enable /etc/systemd/system//etc/systemd/system/mastodon-streaming.service`
+```
+sudo systemctl enable /etc/systemd/system/mastodon-*.service sudo systemctl enable /etc/systemd/system//etc/systemd/system//etc/systemd/system/mastodon-web.service sudo systemctl enable /etc/systemd/system//etc/systemd/system/mastodon-streaming.service
+```
 
 بعد، سرور Mastodon را با دستور زیر شروع کنید:
 
 
-`sudo systemctl start mastodon-web.service sudo systemctl start mastodon-sidekiq.service sudo systemctl start mastodon-streaming.service`
+```
+sudo systemctl start mastodon-web.service sudo systemctl start mastodon-sidekiq.service sudo systemctl start mastodon-streaming.service
+```
 
 ## پیکربندی Nginx برای Mastodon
 
