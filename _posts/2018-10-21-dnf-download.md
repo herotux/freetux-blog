@@ -40,22 +40,22 @@ dnf download [options] <pkg-spec>...
 
 ## مثال ها :
 
-
+```
 dnf download dnf
-    Download the latest dnf package to the current directory.
+    #Download the latest dnf package to the current directory.
 dnf download --url dnf
-    Just print the remote location url where the dnf rpm can be downloaded from.
+    #Just print the remote location url where the dnf rpm can be downloaded from.
 dnf download --url --urlprotocols=https --urlprotocols=rsync dnf
-    Same as above, but limit urls to https or rsync urls.
+    #Same as above, but limit urls to https or rsync urls.
 dnf download dnf --destdir /tmp/dnl
-    Download the latest dnf package to the /tmp/dnl directory (the directory must exist).
+    #Download the latest dnf package to the /tmp/dnl directory (the directory must exist).
 dnf download dnf --source
-    Download the latest dnf source package to the current directory.
+    #Download the latest dnf source package to the current directory.
 dnf download rpm --debuginfo
-    Download the latest rpm-debuginfo package to the current directory.
+    #Download the latest rpm-debuginfo package to the current directory.
 dnf download btanks --resolve
-    Download the latest btanks package and the uninstalled dependencies to the current directory.
-
+    #Download the latest btanks package and the uninstalled dependencies to the current directory.
+```
 
 
 
