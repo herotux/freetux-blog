@@ -34,8 +34,9 @@ DNF download Plugin
 
 شکل کلی دستور:
 
+```
 dnf download [options] <pkg-spec>...
-
+```
 
 ## مثال ها :
 
