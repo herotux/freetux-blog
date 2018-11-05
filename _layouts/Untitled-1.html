@@ -2,21 +2,21 @@
 <html dir="rtl" lang="fa">
 
 <head>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <title>abaut me</title>
 
-  {% include meta.html %}
+  <meta charset="utf-8" />
+  <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
   <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-  {% if site.tags != "" %}
-    {% include collecttags.html %}
-  {% endif %}
+
 
 </head>
 
@@ -25,24 +25,16 @@
     <div class="row">
       <div class="col-md-7">
         <header class="siteinfo">
-          <a href="{{ site.baseurl }}/">
-            <img src="{{ site.avatar }}" alt="آواتار {{ site.name }}" class="rounded avatar" />
+          <a href="https://afash7.github.io">
+            <img src="/avatar.png" alt="آواتار " class="rounded avatar" />
           </a>
-          <a href="{{ site.baseurl }}/" class="sitename">
+          <a href="https://afash7.github.io" class="sitename">
             <h1>{{ site.name }}</h1>
           </a>
           <p class="sitedescription">{{ site.description }}</p>
         </header>
       </div>
-      <div class="col-md-5">
-        <nav class="font-titr topbar">
-          <div class="vertical-middle">
-            <a href="{{ site.baseurl }}/archive">آرشیو</a>
-            <a href="{{ site.baseurl }}/about">درباره‌ی من</a>
-            <a href="{{ site.baseurl }}/contact">تماس با من</a>
-          </div>
-        </nav>
-      </div>
+
     </div>
     <div class="hrbtm"> </div>
   </div>
