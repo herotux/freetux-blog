@@ -38,7 +38,8 @@ permalink: /about/
       <div class="card-body">
         <h5 class="card-title">باس مپ</h5>
         <p class="card-text"><strong>ایستگاه‌ها و مسیرهای اتوبوس شهرستان کرمانشاه </strong></p>
-        <a href="https://gitlab.com/freetux/busmap/" class="btn btn-warning">source in gillab!</a>
+        <a href="https://github.com/herotux/busmap/" class="btn btn-warning">source in gillab!</a>
+        <a href="https://herotux.github.io/busmap/" class="btn btn-warning">مشاهده دمو زنده</a>
       </div>
     </div>
   </div>
