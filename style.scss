@@ -112,8 +112,10 @@ nav.topbar{
   margin-top: 1.8em;
 
   .postcover img {
-    width:230px;
-    height: 230px;
+    width: 420px;
+    height: auto;
+    max-height:280px;
+    margin-bottom: .2em;
 }
 
   h1{
