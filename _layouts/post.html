@@ -12,6 +12,9 @@ layout: default
   ]</span>
 
   <div class="content">
+    {% if page.postimg %}
+      <img src="{{ page.postimg }}" alt="post image" class="post-cover">
+    {% endif %}
     {{ content }}
   </div>
 
