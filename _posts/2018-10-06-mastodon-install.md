@@ -7,6 +7,7 @@ category:
 tags: 
 - mastodon 
 - learn
+postimg: "/images/post/mastodon_logo.png"
 ---
 
 
