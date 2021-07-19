@@ -42,6 +42,8 @@ permalink: /about/
         <a href="https://herotux.github.io/busmap/" class="btn btn-warning">مشاهده دمو زنده</a>
       </div>
     </div>
+  </div>
+  <div class="card-deck">
     <div class="card">
       <img class="card-img-top" src="/images/shabayab.png" alt="Card image cap">
       <div class="card-body" height="400">
@@ -139,7 +141,7 @@ permalink: /about/
     </div>
     </div>
   </div>
-<div class="row">
+  <div class="row">
     <div class="col-12 col-sm-3 name">
       flask
     </div>
