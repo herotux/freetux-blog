@@ -4,6 +4,7 @@ title: پایتون مقدماتی با جادی
 tags: لینک
 Category: پایتون
 layout: post
+postimg: "/images/post/photo_2019-06-03_02-51-46.jpg"
 ---
 
 
