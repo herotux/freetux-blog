@@ -42,6 +42,24 @@ permalink: /about/
         <a href="https://herotux.github.io/busmap/" class="btn btn-warning">مشاهده دمو زنده</a>
       </div>
     </div>
+    <div class="card">
+      <img class="card-img-top" src="/images/shabayab.png" alt="Card image cap">
+      <div class="card-body" height="400">
+        <h5 class="card-title">شبایاب</h5>
+        <p class="card-text"><strong>وب اپلیکیشن محاسبه شماره شبا بانکی با فلسک </strong></p>
+        <br>
+        <a href="https://github.com/herotux/shabayab/" class="btn btn-warning">گیتهاب پروژه</a>
+        <a href="https://freetux.pythonanywhere.com/" class="btn btn-warning">مشاهده دمو زنده</a>
+      </div>
+    <div class="card">
+      <img class="card-img-top" src="/images/teletux.png" alt="Card image cap">
+      <div class="card-body" height="400">
+        <h5 class="card-title">TeleTux</h5>
+        <p class="card-text"><strong>کلاینت تلگرام تلتاکس بهینه شده برای کاربر ایرانی </strong></p>
+        <br>
+        <a href="https://github.com/TeleTux/TeleTux" class="btn btn-warning">گیتهاب پروژه</a>
+        <a href="https://teletux.github.io/TeleTux/" class="btn btn-warning">توضیح بیشتر</a>
+      </div>
   </div>
 
 
