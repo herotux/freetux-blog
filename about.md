@@ -137,6 +137,18 @@ permalink: /about/
     </div>
     </div>
   </div>
+<div class="row">
+    <div class="col-12 col-sm-3 name">
+      flask
+    </div>
+    <div class="col-12 col-sm-9">
+      <div class="progress">
+        <div class="progress-bar progress-bar-striped bg-mycolor" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+          70%
+        </div>
+    </div>
+    </div>
+  </div>
   <div class="row">
     <div class="col-12 col-sm-3 name">
       Bootstrap
