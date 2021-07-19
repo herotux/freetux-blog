@@ -51,6 +51,7 @@ permalink: /about/
         <a href="https://github.com/herotux/shabayab/" class="btn btn-warning">گیتهاب پروژه</a>
         <a href="https://freetux.pythonanywhere.com/" class="btn btn-warning">مشاهده دمو زنده</a>
       </div>
+    </div>
     <div class="card">
       <img class="card-img-top" src="/images/teletux.png" alt="Card image cap">
       <div class="card-body" height="400">
@@ -60,6 +61,7 @@ permalink: /about/
         <a href="https://github.com/TeleTux/TeleTux" class="btn btn-warning">گیتهاب پروژه</a>
         <a href="https://teletux.github.io/TeleTux/" class="btn btn-warning">توضیح بیشتر</a>
       </div>
+    </div>
   </div>
 
 
