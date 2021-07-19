@@ -6,18 +6,17 @@ permalink: /about/
 
 
 <div class="card">
-				<img class="card-img-top" src="/images/hamid.jpg" alt="Card image cap">
-				<div class="card-body">
-					
-					<p class="card-text"><strong>
-حمید صیدی هستم شهریور ۱۳۶۹ در کرمانشاه به دنیا امدم .
-
-فارق التحصیل کارشناسی حسابداری از دانشگاه آزاد کرمانشاه
-
-علاقه‌مند به گنو/لینوکس، عاشق یادگیری ،دوستدار موسیقی</strong></p>
-					<a href="https://github.com/herotux" class="btn btn-warning">follow me in github!</a>
-				</div>
-			</div>
+	<div class="card-body">
+		<p class="card-text">
+    <strong>
+        حمید صیدی هستم شهریور ۱۳۶۹ در کرمانشاه به دنیا امدم .
+        فارق التحصیل کارشناسی حسابداری از دانشگاه آزاد کرمانشاه
+       علاقه‌مند به گنو/لینوکس، عاشق یادگیری ،دوستدار موسیقی 
+      </strong>
+    </p>
+	  <a href="https://github.com/herotux" class="btn btn-warning">follow me in github!</a>
+	</div>
+</div>
 
 <div class="text-center">
 		<div class="p-3 mb-2 bg-primary text-white">projects</div>
