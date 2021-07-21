@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://freetux.ir/feed.xml" rel="self" type="application/atom+xml" /><link href="https://freetux.ir/" rel="alternate" type="text/html" /><updated>2021-07-21T12:09:54+00:00</updated><id>https://freetux.ir/feed.xml</id><title type="html">حمید صیدی</title><subtitle>وبلاگ شخصی جایی برای نوشتن!</subtitle><entry><title type="html">شبایاب</title><link href="https://freetux.ir/shabayab/" rel="alternate" type="text/html" title="شبایاب" /><published>2021-07-21T00:00:00+00:00</published><updated>2021-07-21T00:00:00+00:00</updated><id>https://freetux.ir/shabayab</id><content type="html" xml:base="https://freetux.ir/shabayab/">&lt;p&gt;محاسبه شماره شبا با شبایاب&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;مدتی پیش و به قصد سرگرمی وب اپلیکیشنی با FLASK نوشتم که میتونه شماره حساب بانک حکمت و بانک ملت رو به شماره شبا تبدیل کنه کد های پروژه روی گیتهاب هست که لینک رو میتونید پایین این پست پیدا کنید&lt;br /&gt;
+همینطور اپلیکیشن الان در حال کار هستش و میتونید استفاده کنید&lt;br /&gt;
+قصد دارم سایر بانک ها رو هم اضافه کنم بزودی&lt;br /&gt;
+از همکاری و مشارکت در توسعه به شدت استقبال میکنم بخصوص در بحث شیرین فرانت اند&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;گیتهاب--شبایاب-&quot;&gt;گیتهاب  &lt;a href=&quot;https://github.com/herotux/shabayab&quot;&gt;شبایاب&lt;/a&gt; &lt;br /&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;وب-اپلیکیشن--شبایاب&quot;&gt;وب اپلیکیشن  &lt;a href=&quot;https://freetux.pythonanywhere.com/&quot;&gt;شبایاب&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><category term="پروژه" /><summary type="html">محاسبه شماره شبا با شبایاب</summary></entry><entry><title type="html">پایتون مقدماتی با جادی</title><link href="https://freetux.ir/python-jadi/" rel="alternate" type="text/html" title="پایتون مقدماتی با جادی" /><published>2019-02-22T00:00:00+00:00</published><updated>2019-02-22T00:00:00+00:00</updated><id>https://freetux.ir/python-jadi</id><content type="html" xml:base="https://freetux.ir/python-jadi/">&lt;p&gt;باز هم جادی عزیز و اینبار لینک های پایتون مقدماتی&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;اگر شما هم مثل من از اون دسته افراد هستید که دوست دارید ویدئوهای آموزشی رو آفلاین داشته باشید و هر وقت هرجایی دوست داشتید استفاده کنید این لینک های دوره پایتون مقدماتی جادی به کار میاد:&lt;br /&gt;
+البته اگر دوره ها رو از گوتوکلس دنبال کنید بهتره چراکه میتونید دوره رو بصورت استاندارد طی کنید و تمرینات و. آزمونها و تکالیف رو هم داشته باشید.&lt;br /&gt;
+توجه داشته باشید که ویدئو‌ها از هفته دوم شروع شده هفته اول اموزش ها بصورت متنی در خصوص تاریخچه و آماده سازی زیرساخت ها برای کار با پایتون بوده و ویدئو ندارد.&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://cdn.gotoclass.ir/Courses/python/jadi/week2/1_variables_and_identifiers/variables_and_identifiers.m4v?1550845450196
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/2_name_identiffiers/name_identiffiers.m4v?1550845571850
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/3_use_descriptive_identfiers/use_descriptive_identfiers.m4v?1550845628719
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/4_variable_types/variable_types.m4v?1550845643730
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/5_get_input/get_input.m4v?1550845659045
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/6_equal_statement/equal_statement.m4v?1550845707002
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/7_statement_assignment_and_expression/statement_assignment_expression.m4v?1550845717766
+https://cdn.gotoclass.ir/Courses/python/jadi/week2/8_python_lists/python_lists.m4v?1550845729078
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/1_operators/operators.m4v?1550845768281
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/2_arithmetic/arithmetic.m4v?1550845778625
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/3_relational_operators/relational_operators.m4v?1550845816563
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/4_logical_operators/logical_operators.m4v?1550845829383
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/5_identity_operators/identity_operators.m4v?1550845840864
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/6_membership_operators/membership_operators.m4v?1550845853163
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/7_if/if.m4v?1550845869863
+https://cdn.gotoclass.ir/Courses/python/jadi/week3/8_elseif/elseif.m4v?1550845884293
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/1_while_loop/while_loop.m4v?1550845923285
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/2_for_loop/for_loop.m4v?1550845937520
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/3_break_continue/break_continue.m4v?1550845947781
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/4_nested_loops/nested_loops.m4v?1550845959670
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/5_functions/functions.m4v?1550845984536
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/6_function_analogy/function_analogy.m4v?1550846004357
+https://cdn.gotoclass.ir/Courses/python/jadi/week4/7_modules/modules.m4v?1550846018915
+https://cdn.gotoclass.ir/Courses/python/jadi/week5/1_list_methods/list_methods.m4v?1550846090868
+https://cdn.gotoclass.ir/Courses/python/jadi/week5/2_list_slicing/list_slicing.m4v?1550846112938
+https://cdn.gotoclass.ir/Courses/python/jadi/week5/3_list_slicing_negative_index/list_slicing_negative_index.m4v?1550846121726
+https://cdn.gotoclass.ir/Courses/python/jadi/week5/4_slicing_with_step/slicing_with_step.m4v?1550846138884
+https://cdn.gotoclass.ir/Courses/python/jadi/week5/5_slicing_with_defaults/slicing_with_defaults.m4v?1550846150044
+https://cdn.gotoclass.ir/Courses/python/jadi/week6/1_strings/strings.m4v?1550846187357
+https://cdn.gotoclass.ir/Courses/python/jadi/week6/2_string_encodings/string_encodings.m4v?1550846197808
+https://cdn.gotoclass.ir/Courses/python/jadi/week6/3_string_methods/string_methods.m4v?1550846213584
+https://cdn.gotoclass.ir/Courses/python/jadi/week6/4_string_practice1/string_practice_1.m4v?1550846230242
+https://cdn.gotoclass.ir/Courses/python/jadi/week6/5_string_practice2/string_practice_2.m4v?1550846240768
+https://cdn.gotoclass.ir/Courses/python/jadi/week7/1_multidimentional_lists/multidimentional_lists.m4v?1550846287007
+https://cdn.gotoclass.ir/Courses/python/jadi/week7/3_dictionaries/dictionaries.m4v?1550846305766
+https://cdn.gotoclass.ir/Courses/python/jadi/week7/2_dictionary_methods/dictionary_methods.m4v?1550846316222
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/1_file_io/file_io.m4v?1550846351871
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/2_file_access_modes/file_access_modes.m4v?1550846362375
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/3_file_position/file_position.m4v?1550846371351
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/4_tuples/tuples.m4v?1550846384925
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/5_tuple_in_function_returns/tuple_in_function_returns.m4v?1550846393114
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/6_string_formatting/string_formatting.m4v?1550846404416
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/7_formatting_positional/formatting_positional.m4v?1550846412619
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/8_formatting_width_precision_type/formatting_width_precision_type.m4v?1550846424027
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/9_format_practice/format_practice.m4v?1550846434020
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/10_formatting_fill1/formatting_fill1.m4v?1550846447110
+https://cdn.gotoclass.ir/Courses/python/jadi/week8/11_formatting_fill2/formatting_fill2.m4v?1550846467542
+https://cdn.gotoclass.ir/Courses/python/jadi/week9/1_name_spaces/name_spaces.m4v?1550846494685
+https://cdn.gotoclass.ir/Courses/python/jadi/week9/2_scope/scope.m4v?1550846948334
+https://cdn.gotoclass.ir/Courses/python/jadi/week9/3_recursive/recursive.m4v?1550846513251
+https://cdn.gotoclass.ir/Courses/python/jadi/week9/4_errors_and_exceptions/errors_and_exceptions.m4v?1550846527041
+https://cdn.gotoclass.ir/Courses/python/jadi/week9/5_erorr_handling/erorr_handling.m4v?1550846537860
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="لینک" /><summary type="html">باز هم جادی عزیز و اینبار لینک های پایتون مقدماتی</summary></entry><entry><title type="html">lpic2 با جادی</title><link href="https://freetux.ir/lpic2-jadi/" rel="alternate" type="text/html" title="lpic2 با جادی" /><published>2018-11-08T00:00:00+00:00</published><updated>2018-11-08T00:00:00+00:00</updated><id>https://freetux.ir/lpic2-jadi</id><content type="html" xml:base="https://freetux.ir/lpic2-jadi/">&lt;p&gt;همونطور که میدونید جادی در حال ضبط دوره lpic 2 هستش و البته ۳۰ قسمت از اون رو به gotoclass تحویل داده .&lt;/p&gt;
+
+&lt;p&gt;اگر شما هم مثل من از اون دسته افراد هستید که دوست دارید ویدئوهای آموزشی رو آفلاین داشته باشید و هر وقت هرجایی دوست داشتید استفاده کنید این لینک های دوره lpic2 جادی به کار میاد:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://cdn.gotoclass.ir/Courses/LPIC_2/01.mp4 
+https://cdn.gotoclass.ir/Courses/LPIC_2/02.mp4
+https://cdn.gotoclass.ir/Courses/LPIC_2/03.mp4
+https://cdn.gotoclass.ir/Courses/LPIC_2/04.mp4 
+https://cdn.gotoclass.ir/Courses/LPIC_2/05.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/06.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/07.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/08.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/09.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/10.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/11.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/12.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/13.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/14.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/15.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/16.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/17.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/18.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/19.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/20.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/21.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/22.mp4
+https://cdn.gotoclass.ir/Courses/LPIC_2/23.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/24.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/25.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/26.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/27.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/28.m4v
+https://cdn.gotoclass.ir/Courses/LPIC_2/29.mp4
+https://cdn.gotoclass.ir/Courses/LPIC_2/30.m4v 
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/1_207_1_dns.mp4?1550847126473
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/2_207_2_dns_zones.mp4?1550847149412
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/3_207_3_dns_security.mp4?1550847164049
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/4_208_1_A_Web_Server_1.mp4?1550847175656
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/5_208_1_B_Apache_1.mp4?1550847194184
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/6_208_1_C_Virtual_Hosts_1.mp4?1550847205226
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/7_208_2_Ssl_1.mp4?1550847215879
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/8_208_3_Squid_1.mp4?1550847231142
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/9_208_4_Nginx_1.mp4?1550847242882
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/10_209_1_a_samba.mp4?1558682878795
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/11_209_1_B_Samba_Server_1.mp4?1558682998746
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/12_209_1_C_Samba_Client_1.mp4?1558683033329
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/13_209_2_A_Nfs_1.mp4?1558683049779
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/14_209_2_B_Nfs_1.mp4?1558683068844
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/15_210_1_Dhcp_1.mp4?1558683094158
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/16_210_2_Pam_1.mp4?1558683110081
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/17_210_A3_Ldap_Clients_1.mp4?1558683128539
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/18_210_B4_Ldap_Server_1.mp4?1558683143996
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/19_211_A_Mail_Services_1.mp4?1558683161543
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/20_211_B_Mail_Protocols_1.mp4?1558683174560
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/21_211_C_Mail_Servers_1.mp4?1558683189150
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/22_211_D_mda_1.mp4?1558683209532
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/23_211_E_Remote_Delivery_1.mp4?1558683222702
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/24_212_A_Network_Security_1.mp4?1558683246686
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/25_212_B_External_Security_1.mp4?1558683261382
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/26_212_C_Remote_1.mp4?1558683274095
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/27_212_d_ftp.mp4?1558683287949
+https://cdn.gotoclass.ir/Courses/LPIC_2/202/28_212_E_Ssh_Tunnels_1.mp4?1558683303794
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="لینک" /><summary type="html">همونطور که میدونید جادی در حال ضبط دوره lpic 2 هستش و البته ۳۰ قسمت از اون رو به gotoclass تحویل داده .</summary></entry><entry><title type="html">دستور grep</title><link href="https://freetux.ir/grep/" rel="alternate" type="text/html" title="دستور grep" /><published>2018-11-07T00:00:00+00:00</published><updated>2018-11-07T00:00:00+00:00</updated><id>https://freetux.ir/grep</id><content type="html" xml:base="https://freetux.ir/grep/">&lt;p&gt;تخته سفید ۱&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/post/whiteboard01.jpg&quot; alt=&quot;تخته سفید ۱&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="تخته_سفید" /><summary type="html">تخته سفید ۱</summary></entry><entry><title type="html">اجرای اپ اندروید در گنو/لینوکس</title><link href="https://freetux.ir/anbox/" rel="alternate" type="text/html" title="اجرای اپ اندروید در گنو/لینوکس" /><published>2018-11-03T00:00:00+00:00</published><updated>2018-11-03T00:00:00+00:00</updated><id>https://freetux.ir/anbox</id><content type="html" xml:base="https://freetux.ir/anbox/">&lt;p&gt;همیشه دنبال راه ساده تری به جای شبیه ساز ها برای اجرای اپلیکیشن اندروید روی گنو/لینوکس میگشتم تا اینکه دیشب &lt;a href=&quot;https://anbox.io/&quot;&gt;anbox&lt;/a&gt; رو دیدم ایدش اینه که به جای شبیه ساز از ویژگی کانتینر برخوردار باشه و اپ رو روی کرنل ران کنه . با اینکار دیگه نیازی به شبیه ساز هایی مثل جنی موشن که سربار بالایی دارن نیست.
+برای نصب و کار با انباکس &lt;a href=&quot;https://docs.anbox.io/userguide/install.html&quot;&gt;اینجا&lt;/a&gt; رو ببینین :)&lt;/p&gt;</content><author><name></name></author><category term="anbox_review" /><summary type="html">همیشه دنبال راه ساده تری به جای شبیه ساز ها برای اجرای اپلیکیشن اندروید روی گنو/لینوکس میگشتم تا اینکه دیشب anbox رو دیدم ایدش اینه که به جای شبیه ساز از ویژگی کانتینر برخوردار باشه و اپ رو روی کرنل ران کنه . با اینکار دیگه نیازی به شبیه ساز هایی مثل جنی موشن که سربار بالایی دارن نیست. برای نصب و کار با انباکس اینجا رو ببینین :)</summary></entry><entry><title type="html">DNF download Plugin</title><link href="https://freetux.ir/dnf-download/" rel="alternate" type="text/html" title="DNF download Plugin" /><published>2018-10-21T00:00:00+00:00</published><updated>2018-10-21T00:00:00+00:00</updated><id>https://freetux.ir/dnf-download</id><content type="html" xml:base="https://freetux.ir/dnf-download/">&lt;div align=&quot;center&quot; style=&quot;font-size: 50px;&quot;&gt;
+&lt;i class=&quot;fa fa-terminal &quot; aria-hidden=&quot;true&quot; style=&quot;color: #333;&quot;&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;p&gt;تا حالا پیش آمده بخواهید برای یک سیستم گنولینوکسی با توزیع محبوب فدورا بسته ای را نصب کنید اما امکان برقراری ارتباط اینترنت روی آن سیستم فراهم نباشد؟&lt;/p&gt;
+
+&lt;p&gt;راه حل اینکه از یک سیستم دیگر با دسترسی به اینترنت با توزیع فدورا (یا با دیسک زنده فدورا) پکیج های مربوط رو دانلود و بصورت آفلاین روی سیستم مورد نظر نصب کنید:&lt;/p&gt;
+
+&lt;p&gt;ولی چطوری؟&lt;/p&gt;
+
+&lt;p&gt;با dnf download&lt;/p&gt;
+
+&lt;p&gt;DNF download Plugin&lt;/p&gt;
+
+&lt;p&gt;دانلود باینری یا بسته های منبع
+ابزاری برای دانلود rpm ها از مخازن اما نصب نمیکند.&lt;/p&gt;
+
+&lt;p&gt;درصورتی که نیاز به دانلود همه پیش نیازها است از سوئیچ –resolve استفاده میکنیم&lt;/p&gt;
+
+&lt;p&gt;شکل کلی دستور:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dnf download [options] &amp;lt;pkg-spec&amp;gt;...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;مثال-ها-&quot;&gt;مثال ها :&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dnf download dnf
+    #Download the latest dnf package to the current directory.
+dnf download --url dnf
+    #Just print the remote location url where the dnf rpm can be downloaded from.
+dnf download --url --urlprotocols=https --urlprotocols=rsync dnf
+    #Same as above, but limit urls to https or rsync urls.
+dnf download dnf --destdir /tmp/dnl
+    #Download the latest dnf package to the /tmp/dnl directory (the directory must exist).
+dnf download dnf --source
+    #Download the latest dnf source package to the current directory.
+dnf download rpm --debuginfo
+    #Download the latest rpm-debuginfo package to the current directory.
+dnf download btanks --resolve
+    #Download the latest btanks package and the uninstalled dependencies to the current directory.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="[&quot;shell&quot;, &quot;learn&quot;, &quot;linux&quot;]" /><category term="linux" /><category term="learn" /><category term="chocolate" /><summary type="html">تا حالا پیش آمده بخواهید برای یک سیستم گنولینوکسی با توزیع محبوب فدورا بسته ای را نصب کنید اما امکان برقراری ارتباط اینترنت روی آن سیستم فراهم نباشد؟</summary></entry><entry><title type="html">فرمان alias</title><link href="https://freetux.ir/alias/" rel="alternate" type="text/html" title="فرمان alias" /><published>2018-10-17T00:00:00+00:00</published><updated>2018-10-17T00:00:00+00:00</updated><id>https://freetux.ir/alias</id><content type="html" xml:base="https://freetux.ir/alias/">&lt;div align=&quot;center&quot; style=&quot;font-size: 50px;&quot;&gt;
+&lt;i class=&quot;fa fa-terminal &quot; aria-hidden=&quot;true&quot; style=&quot;color: #333;&quot;&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;p&gt;فرمان alias این امکان را برای ما بوجود می آورد که دستور یا گروهی از دستورات را بعلاوه options و آرگومان ها و سایر اجزای آن با یک رشته از پیش تعیین شده اجرا شود.&lt;/p&gt;
+
+&lt;p&gt;به عبارت دیگر به یک یا چند دستور پیچیده با کلی آپشن و آرگومان تنها یک رشته ساده که در خاطر میماند نسبت میدهیم و با هربار فراخوانی آن کل دستورات اجرا میشود.&lt;/p&gt;
+
+&lt;h2 id=&quot;ایجاد-alias&quot;&gt;ایجاد alias&lt;/h2&gt;
+
+&lt;p&gt;دستورالعمل کلی برای دستور alias تا حدی با توجه به shell های مختلف متفاوت است. در مورد  bash  به این صورت است:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;alias [-p] [name=&quot;value&quot;] 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;زمانی که فرمان alias بدون هیچ آپشن و آرگومانی وارد میکنید لیستی از همه alias های کاربر فعلی برای شما نمایش داده میشود&lt;/p&gt;
+
+&lt;p&gt;بعضی از alias های لیست شده مربوط به سیستم هستند که برای همه کاربران بصورت خودکار اعمال میشوند&lt;/p&gt;
+
+&lt;h3 id=&quot;مثال&quot;&gt;مثال&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;alias p=&quot;pwd&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;alias l='ls -al /etc'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;alias a=&quot;gedit /etc/httpd/conf/httpd.conf&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;alias webcam=&quot;mplayer -tv driver=v4l2:width=320:height=240: -vo xv -vf mirror tv://  -geometry &quot;99%:99%&quot; -noborder -ontop&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;افزودن-alias-به-پوسته&quot;&gt;افزودن alias به پوسته&lt;/h3&gt;
+
+&lt;p&gt;بعد از اینکه شما alias رو معرفی میکنید تنها برای Season فعلی قابل استفاده است و بعد از بستن پنجره ترمینال اگر مجدد قصد استفاده از alias رو داشته باشید باید مجدد معرفی کنید برای حل این مشکل alias  رو در فایل کانفیگ مربوط به شل خودتون وارد کنید&lt;/p&gt;
+
+&lt;p&gt;اگر از bash استفاده میکنید :&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vi ~/.bashrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;و مثلا اگر از zsh استفاده میکنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vi ~/.zshrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;و به آخر فایل کانفیگ دستور alias مورد نظر خودتون رو اضافه و فایل رو ذخیره کنید&lt;/p&gt;
+
+&lt;p&gt;در پایان برای اعمال تغییرات میبایست این اسکریپت کانفیگ رو یکبار فراخوانی کنید:&lt;/p&gt;
+
+&lt;p&gt;برای bash&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;. ~/.bashrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;برای zsh&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;. ~/.zshrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="[&quot;shell&quot;, &quot;learn&quot;, &quot;linux&quot;]" /><category term="linux" /><category term="learn" /><category term="chocolate" /><summary type="html">فرمان alias این امکان را برای ما بوجود می آورد که دستور یا گروهی از دستورات را بعلاوه options و آرگومان ها و سایر اجزای آن با یک رشته از پیش تعیین شده اجرا شود.</summary></entry><entry><title type="html">نصب Mastodon در اوبونتو</title><link href="https://freetux.ir/mastodon-install/" rel="alternate" type="text/html" title="نصب Mastodon در اوبونتو" /><published>2018-10-06T00:00:00+00:00</published><updated>2018-10-06T00:00:00+00:00</updated><id>https://freetux.ir/mastodon-install</id><content type="html" xml:base="https://freetux.ir/mastodon-install/">&lt;div align=&quot;center&quot; style=&quot;font-size: 50px;&quot;&gt;
+&lt;i class=&quot;fab fa-mastodon&quot; aria-hidden=&quot;true&quot; style=&quot;color: #333;&quot;&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;p&gt;Mastodon یک پلت فرم شبکه اجتماعی رایگان و رایگان است که بسیار شبیه توییتر است. هر کسی می تواند Mastodon را اجرا کند و در یک شبکه اجتماعی یکپارچه شرکت کند. این در روبی و جاوا اسکریپت نوشته شده است.&lt;/p&gt;
+
+&lt;p&gt;در این آموزش ما Mastodon را در سرور اوبونتو 16.04 نصب خواهیم کرد.&lt;/p&gt;
+
+&lt;h2 id=&quot;الزامات&quot;&gt;الزامات&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;یک سرور اوبونتو&lt;/li&gt;
+  &lt;li&gt;یک کاربر معمولی با تنظیمات sudo در سرور شما.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;نصب-وابستگی-های-مورد-نیاز&quot;&gt;نصب وابستگی های مورد نیاز&lt;/h2&gt;
+
+&lt;p&gt;اولا توصیه می شود سرور خود را با آخرین نسخه به روز کنید. شما می توانید این کار را با اجرای دستور زیر انجام دهید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get update -y sudo apt-get upgrade -y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;هنگامی که سیستم شما به روز می شود، سیستم خود را مجددا راه اندازی کنید و با کاربر sudo وارد شوید.&lt;/p&gt;
+
+&lt;p&gt;بعد، شما باید برخی از وابستگی های مورد نیاز را در سرور خود نصب کنید. شما می توانید همه آنها را با اجرای دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo bash - sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo bash - sudo apt-get install imagemagick ffmpeg libpq-dev libxml2-dev libxslt1-dev nodejs -y sudo npm install -g yarn
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، شما همچنین باید سرور redis را در سیستم خود نصب کنید. شما می توانید آن را فقط با اجرای دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install redis-server redis-tools -y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد Postgresql را نصب کنید.&lt;/p&gt;
+
+&lt;h2 id=&quot;نصب-و-پیکربندی-postgresql&quot;&gt;نصب و پیکربندی PostgreSQL&lt;/h2&gt;
+
+&lt;p&gt;Mastodon از پایگاه داده PostgreSQL استفاده می کند، بنابراین شما باید PostgreSQL و daemon را نصب کنید. شما می توانید آنها را با دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install postgresql pidentd -y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;پس از اتمام نصب، daemon id را با دستور زیر شروع کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo systemctl start pidentd
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، برای ورود به کاربر postgre وارد شوید و یک کاربر برای Mastodon ایجاد کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo su - postgres psql CREATE USER mastodon CREATEDB; exit
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، شما نیاز دارید که کاربران بتوانند بدون رمز عبور وارد شوند. شما می توانید این کار را با اجرای دستور زیر انجام دهید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo sed -i '/^local.*postgres.*peer$/a host all all 127.0.0.1/32 ident' /etc/postgresql/9.?/main/pg_hba.conf
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;پس از پایان کار، PostgreSQL را مجددا راه اندازی کنید تا تغییرات اعمال شود.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo systemctl postgresql restart
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;نصب-روبی&quot;&gt;نصب روبی&lt;/h2&gt;
+
+&lt;p&gt;Mastodon برنامه مبتنی بر Ruby است. بنابراین شما باید Ruby و تمام وابستگی های مورد نیاز را به سرور خود نصب کنید.&lt;/p&gt;
+
+&lt;p&gt;شما می توانید همه آنها را با اجرای دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libncurses5-dev libffi-dev libgdbm3 libreadline6-dev zlib1g-dev libgdbm-dev -y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;پس از نصب تمام بسته ها، یک کاربر به نام mastodon بدون رمز عبور ایجاد کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser --disabled-password --disabled-login mastodon
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، با mastodon وارد شوید و rbenv و rbenv-build را با دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;su - mastodon git clone https://github.com/rbenv/rbenv.git ~/.rbenv echo 'export PATH=&quot;$HOME/.rbenv/bin:$PATH&quot;' &amp;gt;&amp;gt; ~/.bashrc echo 'eval &quot;$(rbenv init -)&quot;' &amp;gt;&amp;gt; ~/.bashrc source ~/.bashrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد از کاربر mastodon خارج شده و دوباره وارد شوید تا تغییرات bash اعمال شود:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exit su - mastodon git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، برای نصب ruby 2.4.1 برای mastodon دستور زیر را وارد کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rbenv install 2.4.1 rbenv global 2.4.1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;هنگامی که نصب کامل است، می توانید نسخه ruby ​​را با دستور زیر بررسی کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ruby -v
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;نصب-mastodon&quot;&gt;نصب Mastodon&lt;/h2&gt;
+
+&lt;p&gt;اکنون، تمام وابستگی های لازم برای راه اندازی Mastodon نصب شده اند. بنابراین آخرین نسخه Mastodon را از مخزن Git دانلود کنید. برای انجام این کار، دستور زیر را اجرا کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/tootsuite/mastodon.git live cd live git checkout $(git tag | tail -n 1)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد نصب bundler برای مدیریت وابستگی ها و غیرفعال کردن داکیومنت های gem دستور زیر را وارد کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;echo &quot;gem: --no-document&quot; &amp;gt; ~/.gemrc gem install bundler --no-ri
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، Mastodon را با دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle install --deployment --without development test
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;پس از تکمیل نصب، یک فایل پیکربندی برای Mastodon ایجاد کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cp .env.production.sample .env.production nano .env.production
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;مطالب زیر را اضافه کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;REDIS_HOST=localhost
+REDIS_PORT=6379
+DB_HOST=/var/run/postgresql
+DB_USER=mastodon
+DB_NAME=mastodon_production
+DB_PASS=
+DB_PORT=5432# Federation
+LOCAL_DOMAIN=yourdomain.com
+LOCAL_HTTPS=true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;پس از اتمام، فایل را ذخیره کرده و آن را ببندید.&lt;/p&gt;
+
+&lt;h2 id=&quot;فایل-mastodon-systemd-را-ایجاد-کنید&quot;&gt;فایل Mastodon Systemd را ایجاد کنید&lt;/h2&gt;
+
+&lt;p&gt;بعد، شما باید یک وب سرویس Mastodon systemd، خدمات پس زمینه و سرویس سرویس API برای Mastodon ایجاد کنید.&lt;/p&gt;
+
+&lt;p&gt;اول، یک فایل وب سرویس با دستور زیر ایجاد کنید:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;nano /etc/systemd/system/mastodon-web.service
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;خطوط زیر را اضافه کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; [Unit]
+ Description=mastodon-web
+ After=network.target[Service]
+ Type=simple
+ User=mastodon
+ WorkingDirectory=/home/mastodon/live
+ Environment=&quot;RAILS_ENV=production&quot;
+ Environment=&quot;PORT=3000&quot;
+ ExecStart=/home/mastodon/.rbenv/shims/bundle exec puma -C config/puma.rb
+ TimeoutSec=15
+ Restart=always[Install]
+ WantedBy=multi-user.target
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;بعد، یک فایل سرویس Backgroud ایجاد کنید:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;nano /etc/systemd/system/mastodon-sidekiq.service&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;خطوط زیر را اضافه کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Unit]
+ Description=mastodon-sidekiq
+ After=network.target[Service]
+ Type=simple
+ User=mastodon
+ WorkingDirectory=/home/mastodon/live
+ Environment=&quot;RAILS_ENV=production&quot;
+ Environment=&quot;DB_POOL=5&quot;
+ ExecStart=/home/mastodon/.rbenv/shims/bundle exec sidekiq -c 5 -q default -q mailers -q pull -q push
+ TimeoutSec=15
+ Restart=always[Install]
+ WantedBy=multi-user.target
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، یک فایل سرویس API ایجاد کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;nano /etc/systemd/system/mastodon-streaming.service
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;خطوط زیر را اضافه کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[Unit]
+ Description=mastodon-streaming
+ After=network.target[Service]
+ Type=simple
+ User=mastodon
+ WorkingDirectory=/home/mastodon/live
+ Environment=&quot;NODE_ENV=production&quot;
+ Environment=&quot;PORT=4000&quot;
+ ExecStart=/usr/bin/npm run start
+ TimeoutSec=15
+ Restart=always[Install]
+ WantedBy=multi-user.target
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;فایل را ذخیره و بسته کنید، سپس این فایل سرویس را با دستور زیر فعال کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo systemctl enable /etc/systemd/system/mastodon-*.service sudo systemctl enable /etc/systemd/system//etc/systemd/system//etc/systemd/system/mastodon-web.service sudo systemctl enable /etc/systemd/system//etc/systemd/system/mastodon-streaming.service
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، سرور Mastodon را با دستور زیر شروع کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo systemctl start mastodon-web.service sudo systemctl start mastodon-sidekiq.service sudo systemctl start mastodon-streaming.service
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;پیکربندی-nginx-برای-mastodon&quot;&gt;پیکربندی Nginx برای Mastodon&lt;/h2&gt;
+
+&lt;p&gt;بعد، شما باید reverse-proxy را با استفاده از Nginx برای دسترسی به Mastodon با نام دامنه خود تنظیم کنید.&lt;/p&gt;
+
+&lt;p&gt;اول، Nginx را با دستور زیر نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install nginx -y
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;بعد، بلوک سرور مجازی Nginx را برای Mastodon ایجاد کنید.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/nginx/sites-enabled/mastodon.conf
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;خطوط زیر را اضافه کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;map $http_upgrade $connection_upgrade {
+ default upgrade;
+ '' close;
+}
+server {
+ listen 80;
+ listen [::]:80;
+ server_name www.yourdomain.com yourdomain.com;
+ return 301 https://votredomaine.com$request_uri;access_log /dev/null;
+ error_log /dev/null;
+}server {
+ listen 443 ssl http2;
+ listen [::]:443 ssl http2;
+ server_name www.yourdomain.com yourdomain.com;access_log /var/log/nginx/yourdomain.com-access.log;
+ error_log /var/log/nginx/yourdomain.com-error.log;ssl_certificate /etc/letsencrypt/live/fullchain.pem;
+ ssl_certificate_key /etc/letsencrypt/live/privkey.pem;
+ ssl_protocols TLSv1.2;
+ ssl_ciphers EECDH+AESGCM:EECDH+AES;
+ ssl_prefer_server_ciphers on;
+ add_header Strict-Transport-Security &quot;max-age=15552000; preload&quot;;keepalive_timeout 70;
+ sendfile on;
+ client_max_body_size 0;
+ gzip off;root /home/mastodon/live/public;location / {
+  try_files $uri @proxy;
+ }location @proxy {
+  proxy_set_header Host $host;
+  proxy_set_header X-Real-IP $remote_addr;
+  proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+  proxy_set_header X-Forwarded-Proto https;
+  proxy_pass_header Server;
+  proxy_pass http://127.0.0.1:3000;
+  proxy_buffering off;
+  proxy_redirect off;
+  proxy_http_version 1.1;
+  proxy_set_header Upgrade $http_upgrade;
+  proxy_set_header Connection $connection_upgrade;
+  tcp_nodelay on;
+ }location /api/v1/streaming {
+  proxy_set_header Host $host;
+  proxy_set_header X-Real-IP $remote_addr;
+  proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+  proxy_set_header X-Forwarded-Proto https;
+  proxy_pass http://127.0.0.1:4000;
+  proxy_buffering off;
+  proxy_redirect off;
+  proxy_http_version 1.1;
+  proxy_set_header Upgrade $http_upgrade;
+  proxy_set_header Connection $connection_upgrade;
+  tcp_nodelay on;
+ }
+
+error_page 500 501 502 503 504 /500.html; } 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;فایل را ذخیره کنید، سپس Nginx را با دستور زیر دوباره راه اندازی کنید:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;systemctl restart nginx
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;در نهایت، مرورگر وب خود را باز کنید و  http // yourdomain.com خود را تایپ کنید تا به Mastodon install دسترسی داشته باشید.&lt;/p&gt;</content><author><name></name></author><category term="[&quot;mastodon&quot;, &quot;learn&quot;]" /><category term="mastodon" /><category term="learn" /><summary type="html">Mastodon یک پلت فرم شبکه اجتماعی رایگان و رایگان است که بسیار شبیه توییتر است. هر کسی می تواند Mastodon را اجرا کند و در یک شبکه اجتماعی یکپارچه شرکت کند. این در روبی و جاوا اسکریپت نوشته شده است.</summary></entry><entry><title type="html">مفهوم rebase</title><link href="https://freetux.ir/%D9%85%D9%81%D9%87%D9%88%D9%85-rebase/" rel="alternate" type="text/html" title="مفهوم rebase" /><published>2018-10-05T00:00:00+00:00</published><updated>2018-10-05T00:00:00+00:00</updated><id>https://freetux.ir/%D9%85%D9%81%D9%87%D9%88%D9%85-rebase</id><content type="html" xml:base="https://freetux.ir/%D9%85%D9%81%D9%87%D9%88%D9%85-rebase/">&lt;p&gt;در Git، دو راه اصلی برای ادغام تغییرات از یک شاخه به دیگری وجود دارد: merge و rebase.
+خواستم راجع به rebase بنویسم دیدم قبلا &lt;a href=&quot;https://pullrequest.ir/authors/nima&quot;&gt;نیما هاشمی&lt;/a&gt; خیلی ساده و کامل گفته پس به جای توضیح دادن لینک میزارم:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pullrequest.ir/%DA%AF%DB%8C%D8%AA-rebase-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/&quot;&gt;گیت Rebase به زبان ساده&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;گفتنی نیست که برای درک کامل باید با گیت آشنایی داشته باشید و باهاش کلی سر و کله زده بزنید.&lt;/p&gt;</content><author><name></name></author><category term="[&quot;learn&quot;, &quot;link&quot;]" /><category term="chocolate" /><category term="learn" /><category term="link" /><summary type="html">در Git، دو راه اصلی برای ادغام تغییرات از یک شاخه به دیگری وجود دارد: merge و rebase. خواستم راجع به rebase بنویسم دیدم قبلا نیما هاشمی خیلی ساده و کامل گفته پس به جای توضیح دادن لینک میزارم:</summary></entry><entry><title type="html">git diff دستور</title><link href="https://freetux.ir/git-diff/" rel="alternate" type="text/html" title="git  diff دستور" /><published>2018-10-02T00:00:00+00:00</published><updated>2018-10-02T00:00:00+00:00</updated><id>https://freetux.ir/git-diff</id><content type="html" xml:base="https://freetux.ir/git-diff/">&lt;p&gt;در این آموزش با سوئیچ diff از کنترل ورژن git آشنا میشویم&lt;/p&gt;
+
+&lt;p&gt;تغییرات بین کامیت ،کامیت ها و working tree را نشان میدهد
+که چه فایلی چه تغییر داشته&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git diff [options] [] [--] […​]
+
+git diff [options] --cached [] [--] […​]
+
+git diff [options]   [--] […​]
+
+git diff [options]
+  
+git diff [options] [--no-index] [--]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;مثال&quot;&gt;مثال:&lt;/h3&gt;
+
+&lt;p&gt;اگر فرض بر این باشد که دو کامیت با id مشخص داشته باشیم تفاوت این دو را با این دستور در خروجی خواهیم داشت&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff 123asd 456qwe&lt;/code&gt;&lt;/p&gt;</content><author><name></name></author><category term="[&quot;Learn&quot;, &quot;chocolate&quot;]" /><category term="chocolate" /><summary type="html">در این آموزش با سوئیچ diff از کنترل ورژن git آشنا میشویم</summary></entry></feed>
